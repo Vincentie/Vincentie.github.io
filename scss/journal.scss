@@ -818,6 +818,7 @@ a {
           max-width: 100%;
           border-radius: 5px;
           overflow: hidden;
+		  margin: auto;
         }
         @media screen and (max-width: $single-column-max-width) {
           font-size: $single-column-post-body-size;
